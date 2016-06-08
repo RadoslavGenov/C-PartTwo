@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\SeriesOfLetters\obj\Debug\SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

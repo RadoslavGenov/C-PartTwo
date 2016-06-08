@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.pdb

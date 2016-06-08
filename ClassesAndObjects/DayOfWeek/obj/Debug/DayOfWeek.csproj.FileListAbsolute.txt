@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.pdb

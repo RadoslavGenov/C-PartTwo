@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\NumericalSystems\bin\Debug\NumericalSystems.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\NumericalSystems\bin\Debug\NumericalSystems.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\NumericalSystems\bin\Debug\NumericalSystems.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\NumericalSystems\obj\Debug\DecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\NumericalSystems\obj\Debug\NumericalSystems.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\NumericalSystems\obj\Debug\NumericalSystems.pdb

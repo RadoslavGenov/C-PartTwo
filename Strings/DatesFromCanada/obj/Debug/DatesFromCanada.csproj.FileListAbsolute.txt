@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\DatesFromCanada\bin\Debug\DatesFromCanada.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\DatesFromCanada\bin\Debug\DatesFromCanada.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\DatesFromCanada\bin\Debug\DatesFromCanada.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\DatesFromCanada\obj\Debug\DatesFromCanada.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\DatesFromCanada\obj\Debug\DatesFromCanada.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\DatesFromCanada\obj\Debug\DatesFromCanada.pdb

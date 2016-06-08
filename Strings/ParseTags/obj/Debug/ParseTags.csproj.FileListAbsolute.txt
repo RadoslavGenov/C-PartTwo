@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseTags\bin\Debug\ParseTags.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseTags\obj\Debug\ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseTags\bin\Debug\ParseTags.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseTags\bin\Debug\ParseTags.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseTags\obj\Debug\ParseTags.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseTags\obj\Debug\ParseTags.pdb

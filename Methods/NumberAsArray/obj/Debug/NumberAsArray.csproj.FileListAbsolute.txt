@@ -1,0 +1,6 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NumberAsArray\bin\Debug\NumberAsArray.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NumberAsArray\obj\Debug\NumberAsArray.csprojResolveAssemblyReference.cache
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NumberAsArray\obj\Debug\NumberAsArray.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NumberAsArray\obj\Debug\NumberAsArray.pdb

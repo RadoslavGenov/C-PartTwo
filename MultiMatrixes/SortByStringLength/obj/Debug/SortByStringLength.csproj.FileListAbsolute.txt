@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SortByStringLength\bin\Debug\SortByStringLength.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SortByStringLength\bin\Debug\SortByStringLength.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SortByStringLength\bin\Debug\SortByStringLength.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SortByStringLength\obj\Debug\SortByStringLength.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SortByStringLength\obj\Debug\SortByStringLength.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SortByStringLength\obj\Debug\SortByStringLength.pdb

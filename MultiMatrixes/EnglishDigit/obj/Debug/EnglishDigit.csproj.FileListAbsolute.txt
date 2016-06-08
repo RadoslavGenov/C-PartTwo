@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\EnglishDigit\bin\Debug\EnglishDigit.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\EnglishDigit\bin\Debug\EnglishDigit.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\EnglishDigit\obj\Debug\EnglishDigit.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\EnglishDigit\obj\Debug\EnglishDigit.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\EnglishDigit\obj\Debug\EnglishDigit.pdb

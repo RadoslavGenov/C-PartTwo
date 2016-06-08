@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\Palindromes\obj\Debug\Palindromes.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache

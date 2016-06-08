@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\TriangleSurface\bin\Debug\TriangleSurface.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\TriangleSurface\obj\Debug\TriangleSurface.pdb

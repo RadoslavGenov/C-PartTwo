@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\PascalTriangle\bin\Debug\PascalTriangle.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\PascalTriangle\bin\Debug\PascalTriangle.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\PascalTriangle\obj\Debug\PascalTriangle.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\PascalTriangle\obj\Debug\PascalTriangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache

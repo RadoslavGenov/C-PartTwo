@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

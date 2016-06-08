@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\CountSubString\bin\Debug\CountSubString.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\CountSubString\bin\Debug\CountSubString.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\CountSubString\bin\Debug\CountSubString.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\CountSubString\obj\Debug\CountSubString.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\CountSubString\obj\Debug\CountSubString.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\CountSubString\obj\Debug\CountSubString.pdb

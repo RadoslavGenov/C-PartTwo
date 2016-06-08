@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ShuntingYard.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\WordCount\bin\Debug\WordCount.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\WordCount\bin\Debug\WordCount.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\WordCount\obj\Debug\WordCount.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\WordCount\obj\Debug\WordCount.pdb

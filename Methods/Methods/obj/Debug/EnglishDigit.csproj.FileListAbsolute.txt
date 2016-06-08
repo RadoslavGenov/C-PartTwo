@@ -1,0 +1,6 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\Methods\obj\Debug\EnglishDigit.csprojResolveAssemblyReference.cache
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\Methods\obj\Debug\Methods.pdb

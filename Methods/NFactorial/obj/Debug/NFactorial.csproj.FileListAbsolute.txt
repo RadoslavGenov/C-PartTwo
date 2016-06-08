@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NFactorial\bin\Debug\NFactorial.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NFactorial\bin\Debug\NFactorial.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NFactorial\bin\Debug\NFactorial.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NFactorial\obj\Debug\NFactorial.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\NFactorial\obj\Debug\NFactorial.pdb

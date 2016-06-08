@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\MatrixClass\bin\Debug\MatrixClass.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\MatrixClass\bin\Debug\MatrixClass.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\MatrixClass\bin\Debug\MatrixClass.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\MatrixClass\obj\Debug\MatrixClass.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\MatrixClass\obj\Debug\MatrixClass.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\MatrixClass\obj\Debug\MatrixClass.pdb

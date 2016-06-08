@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\WorkDays\bin\Debug\WorkDays.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\WorkDays\obj\Debug\WorkDays.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\ClassesAndObjects\WorkDays\obj\Debug\WorkDays.pdb

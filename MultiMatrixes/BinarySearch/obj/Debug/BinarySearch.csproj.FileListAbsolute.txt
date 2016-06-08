@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\BinarySearch\bin\Debug\BinarySearch.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\BinarySearch\bin\Debug\BinarySearch.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\BinarySearch\bin\Debug\BinarySearch.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\BinarySearch\obj\Debug\BinarySearch.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\BinarySearch\obj\Debug\BinarySearch.pdb

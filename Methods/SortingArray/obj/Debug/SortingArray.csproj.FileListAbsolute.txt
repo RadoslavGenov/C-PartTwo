@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\SortingArray\bin\Debug\SortingArray.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\SortingArray\bin\Debug\SortingArray.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\SortingArray\bin\Debug\SortingArray.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\SortingArray\obj\Debug\SortingArray.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\SortingArray\obj\Debug\SortingArray.pdb

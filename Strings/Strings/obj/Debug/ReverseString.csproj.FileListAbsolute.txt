@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\Strings\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\Strings\obj\Debug\Strings.pdb

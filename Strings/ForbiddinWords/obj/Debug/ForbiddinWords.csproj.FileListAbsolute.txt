@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ForbiddinWords\bin\Debug\ForbiddinWords.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ForbiddinWords\obj\Debug\ForbiddinWords.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ForbiddinWords\bin\Debug\ForbiddinWords.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ForbiddinWords\bin\Debug\ForbiddinWords.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ForbiddinWords\obj\Debug\ForbiddinWords.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ForbiddinWords\obj\Debug\ForbiddinWords.pdb

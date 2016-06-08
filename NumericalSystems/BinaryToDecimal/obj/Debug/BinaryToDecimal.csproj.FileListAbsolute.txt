@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache

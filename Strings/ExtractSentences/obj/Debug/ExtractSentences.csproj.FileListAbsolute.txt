@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractSentences\bin\Debug\ExtractSentences.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractSentences\bin\Debug\ExtractSentences.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractSentences\obj\Debug\ExtractSentences.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractSentences\obj\Debug\ExtractSentences.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractSentences\obj\Debug\ExtractSentences.pdb

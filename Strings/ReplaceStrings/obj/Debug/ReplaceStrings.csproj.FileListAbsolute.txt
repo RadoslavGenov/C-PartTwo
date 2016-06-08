@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ReplaceStrings\bin\Debug\ReplaceStrings.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ReplaceStrings\bin\Debug\ReplaceStrings.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ReplaceStrings\bin\Debug\ReplaceStrings.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ReplaceStrings\obj\Debug\ReplaceStrings.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ReplaceStrings\obj\Debug\ReplaceStrings.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ReplaceStrings\obj\Debug\ReplaceStrings.pdb

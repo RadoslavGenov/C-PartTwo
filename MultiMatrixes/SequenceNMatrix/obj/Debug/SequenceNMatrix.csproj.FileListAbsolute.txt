@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SequenceNMatrix\bin\Debug\SequenceNMatrix.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SequenceNMatrix\bin\Debug\SequenceNMatrix.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SequenceNMatrix\bin\Debug\SequenceNMatrix.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SequenceNMatrix\obj\Debug\SequenceNMatrix.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SequenceNMatrix\obj\Debug\SequenceNMatrix.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\SequenceNMatrix\obj\Debug\SequenceNMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\DateDifference\bin\Debug\DateDifference.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\DateDifference\bin\Debug\DateDifference.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\DateDifference\bin\Debug\DateDifference.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\DateDifference\obj\Debug\DateDifference.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\DateDifference\obj\Debug\DateDifference.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\DateDifference\obj\Debug\DateDifference.pdb

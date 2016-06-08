@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractEmail\bin\Debug\ExtractEmail.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractEmail\bin\Debug\ExtractEmail.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractEmail\bin\Debug\ExtractEmail.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractEmail\obj\Debug\ExtractEmail.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractEmail\obj\Debug\ExtractEmail.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ExtractEmail\obj\Debug\ExtractEmail.pdb

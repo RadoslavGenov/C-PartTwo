@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\FormatNumbers\bin\Debug\FormatNumbers.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\FormatNumbers\bin\Debug\FormatNumbers.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\FormatNumbers\bin\Debug\FormatNumbers.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\FormatNumbers\obj\Debug\FormatNumbers.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\FormatNumbers\obj\Debug\FormatNumbers.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\FormatNumbers\obj\Debug\FormatNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\AddingPolynomials\bin\Debug\AddingPolynomials.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\AddingPolynomials\obj\Debug\AddingPolynomials.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\AddingPolynomials\obj\Debug\AddingPolynomials.pdb

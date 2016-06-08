@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "ExceptionHandling\SquareRoot.csproj", "{E91E9E2C-BC52-4DF0-B98A-001706948ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "EnterNumbers\EnterNumbers.csproj", "{95BB4811-DF91-49EE-8C37-C5E6ADAAFE15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileContents", "ReadFileContents\ReadFileContents.csproj", "{213A3356-B431-4474-A54E-88FCEF3D1E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91E9E2C-BC52-4DF0-B98A-001706948ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91E9E2C-BC52-4DF0-B98A-001706948ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91E9E2C-BC52-4DF0-B98A-001706948ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91E9E2C-BC52-4DF0-B98A-001706948ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BB4811-DF91-49EE-8C37-C5E6ADAAFE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BB4811-DF91-49EE-8C37-C5E6ADAAFE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BB4811-DF91-49EE-8C37-C5E6ADAAFE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BB4811-DF91-49EE-8C37-C5E6ADAAFE15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213A3356-B431-4474-A54E-88FCEF3D1E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213A3356-B431-4474-A54E-88FCEF3D1E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213A3356-B431-4474-A54E-88FCEF3D1E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213A3356-B431-4474-A54E-88FCEF3D1E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

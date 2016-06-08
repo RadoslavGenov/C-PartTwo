@@ -1,0 +1,5 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\NumericalSystems\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb

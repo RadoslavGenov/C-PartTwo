@@ -1,0 +1,6 @@
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\tests\bin\Debug\tests.exe.config
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\tests\bin\Debug\tests.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\tests\bin\Debug\tests.pdb
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\tests\obj\Debug\tests.csprojResolveAssemblyReference.cache
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\tests\obj\Debug\tests.exe
+c:\users\rados\onedrive\documents\visual studio 2015\Projects\ConsoleApplication6\tests\obj\Debug\tests.pdb

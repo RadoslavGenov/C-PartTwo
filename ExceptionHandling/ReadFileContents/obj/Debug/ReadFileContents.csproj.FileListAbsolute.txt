@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.exe.config
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.exe
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\ReadFileContents\bin\Debug\ReadFileContents.pdb
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.exe
+C:\Users\rados\Desktop\C# Part 2\ExceptionHandling\ReadFileContents\obj\Debug\ReadFileContents.pdb

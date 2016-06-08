@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseURL\bin\Debug\ParseURL.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseURL\bin\Debug\ParseURL.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseURL\bin\Debug\ParseURL.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseURL\obj\Debug\ParseURL.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseURL\obj\Debug\ParseURL.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ParseURL\obj\Debug\ParseURL.pdb

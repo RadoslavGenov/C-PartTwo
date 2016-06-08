@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C# Part 2\Strings\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+C:\Users\rados\Desktop\C# Part 2\Strings\ReverseSentence\obj\Debug\ReverseSentence.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C# Part 2\Strings\ReverseSentence\bin\Debug\ReverseSentence.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ReverseSentence\bin\Debug\ReverseSentence.pdb
+C:\Users\rados\Desktop\C# Part 2\Strings\ReverseSentence\obj\Debug\ReverseSentence.exe
+C:\Users\rados\Desktop\C# Part 2\Strings\ReverseSentence\obj\Debug\ReverseSentence.pdb

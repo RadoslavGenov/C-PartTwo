@@ -1,0 +1,5 @@
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\ReverseDecimal\bin\Debug\ReverseDecimal.exe.config
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\ReverseDecimal\bin\Debug\ReverseDecimal.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\ReverseDecimal\bin\Debug\ReverseDecimal.pdb
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\ReverseDecimal\obj\Debug\ReverseDecimal.exe
+C:\Users\rados\OneDrive\Documents\Visual Studio 2015\Projects\Methods\ReverseDecimal\obj\Debug\ReverseDecimal.pdb
