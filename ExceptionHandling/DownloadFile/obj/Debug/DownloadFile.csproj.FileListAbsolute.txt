@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#Part2\ExceptionHandling\DownloadFile\bin\Debug\DownloadFile.exe.config
+C:\Users\rados\Desktop\C#Part2\ExceptionHandling\DownloadFile\bin\Debug\DownloadFile.exe
+C:\Users\rados\Desktop\C#Part2\ExceptionHandling\DownloadFile\bin\Debug\DownloadFile.pdb
+C:\Users\rados\Desktop\C#Part2\ExceptionHandling\DownloadFile\obj\Debug\DownloadFile.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C#Part2\ExceptionHandling\DownloadFile\obj\Debug\DownloadFile.exe
+C:\Users\rados\Desktop\C#Part2\ExceptionHandling\DownloadFile\obj\Debug\DownloadFile.pdb

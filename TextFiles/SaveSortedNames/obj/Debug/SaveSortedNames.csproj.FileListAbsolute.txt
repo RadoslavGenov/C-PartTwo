@@ -1,0 +1,5 @@
+C:\Users\rados\Desktop\C#Part2\TextFiles\SaveSortedNames\bin\Debug\SaveSortedNames.exe.config
+C:\Users\rados\Desktop\C#Part2\TextFiles\SaveSortedNames\bin\Debug\SaveSortedNames.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\SaveSortedNames\bin\Debug\SaveSortedNames.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\SaveSortedNames\obj\Debug\SaveSortedNames.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\SaveSortedNames\obj\Debug\SaveSortedNames.pdb

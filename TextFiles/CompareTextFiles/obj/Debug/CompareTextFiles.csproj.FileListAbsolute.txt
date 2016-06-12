@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#Part2\TextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
+C:\Users\rados\Desktop\C#Part2\TextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\CompareTextFiles\obj\Debug\CompareTextFiles.csprojResolveAssemblyReference.cache

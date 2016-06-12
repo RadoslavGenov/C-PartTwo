@@ -1,0 +1,11 @@
+C:\Users\rados\Desktop\C# Part 2\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe.config
+C:\Users\rados\Desktop\C# Part 2\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
+C:\Users\rados\Desktop\C# Part 2\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
+C:\Users\rados\Desktop\C# Part 2\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
+C:\Users\rados\Desktop\C# Part 2\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe.config
+C:\Users\rados\Desktop\C#Part2\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\rados\Desktop\C#Part2\TextFiles\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\rados\Desktop\C#Part2\TextFiles\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\rados\Desktop\C#Part2\TextFiles\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\rados\Desktop\C#Part2\TextFiles\MaximalSum\obj\Debug\MaximalSum.pdb
