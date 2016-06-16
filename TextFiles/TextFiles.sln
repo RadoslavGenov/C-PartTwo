@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddLines", "TextFiles\OddLines.csproj", "{F5022B32-C3D7-4E6F-A264-24927A972F3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddLines", "OddLines\OddLines.csproj", "{F5022B32-C3D7-4E6F-A264-24927A972F3B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateTextFiles", "ConcatenateTextFiles\ConcatenateTextFiles.csproj", "{7D4BE665-84A1-4D56-AD26-066909F4CBBE}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{00F142D9-8D4E-43A4-BE1F-5EA2743AC39F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveSortedNames", "SaveSortedNames\SaveSortedNames.csproj", "{620F4599-6229-40BB-AF00-7B9C38BF35FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceSubString", "ReplaceSubString\ReplaceSubString.csproj", "{19B730D2-C759-45E3-A617-DDBD09292E34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{620F4599-6229-40BB-AF00-7B9C38BF35FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620F4599-6229-40BB-AF00-7B9C38BF35FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{620F4599-6229-40BB-AF00-7B9C38BF35FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B730D2-C759-45E3-A617-DDBD09292E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B730D2-C759-45E3-A617-DDBD09292E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B730D2-C759-45E3-A617-DDBD09292E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B730D2-C759-45E3-A617-DDBD09292E34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
